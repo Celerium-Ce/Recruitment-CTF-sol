@@ -38,8 +38,8 @@ Seeing that we have `user_id": -1` the obvious step was to change it to 0 and pu
 
 ![JWTSAD](https://github.com/Celerium-Ce/Recruitment-CTF-sol/blob/main/Web/Imgs/JWT%20token%20trying%20to%20change%20to%200.png)
 
-The error `Invalid Signature` we are getting is due to us just editing the value of user id. signature in jwt token exist to verify the very hack we tried to use. That is changing information in between, 
-but it checks that its not coming from the right source and hence we get the error.
+The error `Invalid Signature` we are getting is due to us just editing the value of user id. Signature in jwt token exist  to verify the very hack we tried to use. That is changing information in between , 
+but it checks that its not coming from the right source and hence we get the error. THe algo we have is the thing which changes the jwt token to encrypt it so using algo none helps us enter the info without having the encryption key.
 
 Now we try another hack to overcome this which is to remove the algorithm and change it to none so we dont need a signature, sometimes websites dont verify the signature and hence this hack could work.
 Here we are changing the algo type to `none`
