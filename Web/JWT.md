@@ -5,9 +5,9 @@ Completely new to me, Leart a lot about JWT webtoken and the weaknesses
 ## Points 
 **300**
 ## Challange Description
-authenticate as user_id 0 to get the flag
+> authenticate as user_id 0 to get the flag
 
-NOTE: read up on "JWT" if you have no idea what's going on
+>NOTE: read up on "JWT" if you have no idea what's going on
 ## Attached File/Website
 [http://ctf.d4rkc0de.iiitd.edu.in:8900/](http://ctf.d4rkc0de.iiitd.edu.in:8900/)
 ## Explanation
