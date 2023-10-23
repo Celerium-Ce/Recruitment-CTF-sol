@@ -23,7 +23,7 @@ From here we open the tracker logs of the flight and find the log at `6:56:00`
 
 ![FlightInfo](https://github.com/Celerium-Ce/Recruitment-CTF-sol/blob/main/Misc/Imgs/Flight%20Info.png)
 
-Here we can see that `latitude=19.4032`	`Longitude=77.8842` `Height=33,000ft` `Speed=531mph`
+Here we can see that `Latitude=19.4032`	`Longitude=77.8842` `Height=33,000ft` `Speed=531mph`
 
 ## Flag
-`d4rk{19.4032_77.8842_531_33000}`
+`d4rk{19.4032_77.8842_531_33000}c0de`
