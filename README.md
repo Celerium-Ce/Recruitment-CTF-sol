@@ -9,7 +9,7 @@ http://ctf.d4rkc0de.iiitd.edu.in/
 
 **Web**
 
->[JWT](https://github.com/Celerium-Ce/Recruitment-CTF-sol/blob/main/Web/JWT)
+>[JWT](https://github.com/Celerium-Ce/Recruitment-CTF-sol/blob/main/Web/JWT.md)
 
 **Misc**
 
