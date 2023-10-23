@@ -62,7 +62,7 @@ Now we change the payload to contain user as `0`
 
 Putting together we get `ewogICJ0eXAiOiAiSldUIiwKICAiYWxnIjogIm5vbmUiCn0.ewogICJ1c2VyX2lkIjogMAp9`
 
-Inputting this and we see that it works it also shows a warnign message `Warning: Undefined array key 2 in /var/www/html/index.php on line 28`  most probably due to it not verifying signature
+Inputting this and we see that it works it also shows a warning message `Warning: Undefined array key 2 in /var/www/html/index.php on line 28`  most probably due to it not verifying signature
 
 ![JWTSTOLENCOOKIE](https://github.com/Celerium-Ce/Recruitment-CTF-sol/blob/main/Web/Imgs/JWT%20cracked.png)
 
