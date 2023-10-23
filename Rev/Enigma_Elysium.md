@@ -5,9 +5,9 @@ Most scuffed solution of Rev
 ## Points
 **200**
 ## Challange Description
-Oops, I forgot to uncomment the print statement
+>Oops, I forgot to uncomment the print statement
 ## Attached File
-![Rev_me](https://github.com/Celerium-Ce/Recruitment-CTF-sol/blob/main/Rev/Files/rev_me.out)
+[Rev_me](https://github.com/Celerium-Ce/Recruitment-CTF-sol/blob/main/Rev/Files/rev_me.out)
 ## Explanation
 Tried running program in [dogbolt](https://dogbolt.org) got no results.
 Opened the file in notepad and just went through the contents since its a possiblity that the print statement was not converted to binary since it was a comment and hence the flag just exists in it.
